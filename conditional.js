@@ -1,4 +1,6 @@
-if ( 10 == 10 ){
+let isCard = false
+
+if ( 10 == 9 || isCard == false  ){
     console.log('welcome');
 }
 else{
