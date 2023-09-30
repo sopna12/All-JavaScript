@@ -58,4 +58,3 @@ else{
     console.log("10 theke sob gula choto");
 
 }
-
